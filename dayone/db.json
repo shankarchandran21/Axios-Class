@@ -1,0 +1,75 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "user": [
+    {
+      "id": 1,
+      "name": "Alex"
+    },
+    {
+      "id": 2,
+      "name": "Shankar"
+    },
+    {
+      "id": 3,
+      "name": "Sanjay"
+    },
+    {
+      "name": "Changes",
+      "id": 4
+    },
+    {
+      "name": "Changes",
+      "id": 5,
+      "headers": {
+        "Content-Type": "application/json"
+      }
+    },
+    {
+      "name": "naaa tha",
+      "id": 6,
+      "headers": {
+        "Content-Type": "application/json"
+      }
+    },
+    {
+      "name": "naaa tha",
+      "id": 7,
+      "headers": {
+        "Content-Type": "application/json",
+        "Authorization": "Bearer YourAccessToken"
+      }
+    },
+    {
+      "name": "naaa tha",
+      "id": 8
+    },
+    {
+      "name": "naaa tha",
+      "id": 9
+    },
+    {
+      "name": "naaa tha",
+      "id": 10
+    },
+    {
+      "name": "naaa tha",
+      "id": 11
+    }
+  ]
+}
